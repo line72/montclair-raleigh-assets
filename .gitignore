@@ -11,3 +11,5 @@ ENV
 *~
 
 __pycache__
+
+tile-generator/tiles
